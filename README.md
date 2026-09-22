@@ -42,3 +42,5 @@ CSV Data Export
 
 How It Works
 Run the script in a PowerShell session with the Active Directory module enabled. The interactive menu lets you select the operation you want to perform. Results display immediately in the console or export to CSV when applicable.
+
+<img width="525" height="254" alt="image" src="https://github.com/user-attachments/assets/96485ca3-5072-4a17-a9b2-8faa5b1ff134" />
